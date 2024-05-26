@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">A passionate software engineer from Rwanda</h3>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=christianisingizwe"
-      alt="christianisingizwe"
-  /></a>
-</p>
 
 - 🔭 I’m currently working on **blink** <br />
 - 🌱 I’m currently learning **Python** - <br />
@@ -348,27 +341,3 @@
   /></a>
 </p>
 <br /><br />
-
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=christianisingizwe&show_icons=true&locale=en&layout=compact"
-    alt="christianisingizwe"
-  />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=christianisingizwe&show_icons=true&locale=en"
-    alt="christianisingizwe"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=christianisingizwe&"
-    alt="christianisingizwe"
-  />
-</p>

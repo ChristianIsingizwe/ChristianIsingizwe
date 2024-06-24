@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer from Rwanda</h3>
 
 - 🔭 I’m currently working on **blink** <br />
-- 🌱 I’m currently learning **Python** - <br />
+- 🌱 I’m currently learning **AI/ML...** - <br />
 💬 Ask me about **Elixir, TypeScript,...**
 
 <h3 align="left">Connect with me:</h3>

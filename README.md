@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **blink** <br />
 - 🌱 I’m currently learning **AI/ML...** - <br />
-💬 Ask me about **Go, Java, C++, python,...**
+💬 Ask me about **Go, Java, Elixir, python,...**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

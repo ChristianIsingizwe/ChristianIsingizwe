@@ -1,4 +1,6 @@
 <h3 align="center">Passionate software engineer aimed at delivering innovative solutions to real world problems </h3>
+
+
 - 🔭 I’m currently working on **Blink,....**
 - 👯 I’m looking to collaborate on **any open source project **
 - 🌱 I’m currently learning **AI/ML....**

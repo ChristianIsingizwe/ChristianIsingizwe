@@ -1,4 +1,5 @@
 <h3 align="center"><!-- DYNAMIC ROLE.. --></h3>
+
 - 🔭 I’m currently working on **Blink**
 - 🌱 I’m currently learning **AI/ML....**
 - 💬 Ask me about **Java, python, Go,Elixir,....**

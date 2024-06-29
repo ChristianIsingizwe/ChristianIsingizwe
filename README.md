@@ -1,5 +1,4 @@
-<h3 align="center"><!-- DYNAMIC ROLE.. --></h3>
-
+<h3 align="center">As a seasoned software engineer, I am driven by a relentless pursuit of innovation and a deep commitment to leveraging technology to address complex, real-world challenges. With a keen eye for problem-solving and a versatile skill set honed through years of experience, I take pride in crafting elegant, efficient solutions that push the boundaries of what is possible. Whether tackling issues of scalability, user experience, or technological limitations, my approach is marked by a blend of analytical rigor, creative thinking, and a steadfast determination to create meaningful impact. Through a fusion of cutting-edge tools, industry best practices, and an unwavering passion for my craft, I am dedicated to driving progress and making a tangible difference in the field of technology.</h3>
 - 🔭 I’m currently working on **Blink**
 - 🌱 I’m currently learning **AI/ML....**
 - 💬 Ask me about **Java, python, Go,Elixir,....**

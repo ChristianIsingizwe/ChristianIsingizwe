@@ -3,7 +3,7 @@
 
   
 <p align="left">
-As a seasoned software engineer, I excel in solving real-world challenges with innovative, efficient solutions. With a focus on scalability and user experience, I use cutting-edge tools and best practices to drive progress and make a meaningful impact in technology.</p>
+"I'm a seasoned full-stack developer with a keen eye on cybersecurity and a passion for AI development. I excel in solving challenges with innovative solutions, prioritizing scalability and user experience.".</p>
 
 
 - 🌱 I’m currently learning **AI/ML....**

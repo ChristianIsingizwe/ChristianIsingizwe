@@ -3,7 +3,7 @@
 
   
 <p align="left">
-"I'm a seasoned full-stack developer with a keen eye on cybersecurity and a passion for AI development. I excel in solving challenges with innovative solutions, prioritizing scalability and user experience.".</p>
+"I am an AI developer, seasoned fullstack developer and have proficiency in cybersecurity".</p>
 
 
 - 🌱 I’m currently learning **AI/ML....**

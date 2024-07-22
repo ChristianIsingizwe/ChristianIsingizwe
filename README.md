@@ -3,7 +3,7 @@
 
   
 <p align="left">
-"I am an AI developer, seasoned fullstack developer and have proficiency in cybersecurity".</p>
+"I am an AI developer and a seasoned full-stack developer with clear knowledge of cybersecurity".</p>
 
 
 - 🌱 I’m currently learning **AI/ML....**

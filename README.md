@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=35&pause=1000&color=04690A&center=true&width=435&lines=+Full-stack+developer+;+Mobile+developer+;UI%2FUX+Designer;Chess+mentor+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=35&pause=1000&color=04690A&center=true&width=435&lines=+Full-stack+developer+;+Mobile+developer+;UI%2FUX+Designer;VR+Developer+;Chess+mentor)](https://git.io/typing-svg)
 <p>Building scalable solutions with 3+ years of expertise in software development and testing.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>

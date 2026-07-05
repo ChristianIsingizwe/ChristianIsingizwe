@@ -1,5 +1,5 @@
 <p>
-AI engineer building production-grade AI agents and intelligent systems. Also skilled in full-stack development with TypeScript, Java, and Python.
+AI engineer. Also skilled in full-stack development with TypeScript, Java, and Python.
 </p>
 <h2>wanna talk</h2>
 <p>
